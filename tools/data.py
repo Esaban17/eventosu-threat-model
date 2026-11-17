@@ -4,7 +4,7 @@ Desde aquí se generan: model/eventosu.json, docs/amenazas.csv y el informe."""
 
 TITULO = "EventosU – Modelo de amenazas"
 INTEGRANTES = [
-    ("Estuardo Saban", "[carné]"),
+    ("Estuardo Saban", "26004193"),
     ("[Nombre integrante 2]", "[carné]"),
 ]
 CURSO = "[Nombre del curso]"

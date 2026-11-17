@@ -6,7 +6,7 @@ Tarea **Modelado de amenazas de un sitio web** · Universidad Galileo
 
 | Nombre | Carné |
 |---|---|
-| Estuardo Saban | [carné] |
+| Estuardo Saban | 26004193 |
 | [Nombre integrante 2] | [carné] |
 
 ## Alcance
