@@ -7,7 +7,7 @@ Tarea **Modelado de amenazas de un sitio web** · Universidad Galileo
 | Nombre | Carné |
 |---|---|
 | Estuardo Saban | 26004193 |
-| [Nombre integrante 2] | [carné] |
+| Luis André Morales | 20077954 |
 
 ## Alcance
 
