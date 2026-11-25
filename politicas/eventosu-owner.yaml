@@ -1,0 +1,13 @@
+metadata:
+  id: CKV2_EVENTOSU_1
+  name: "Los buckets de EventosU deben registrar su equipo responsable"
+  category: GENERAL_SECURITY
+scope:
+  provider: aws
+definition:
+  cond_type: attribute
+  resource_types:
+    - aws_s3_bucket
+  attribute: tags.Owner
+  operator: equals
+  value: EventosU
